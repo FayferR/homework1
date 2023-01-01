@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">homework1</string>
+    <string name="toast">EditText не может быть пустым</string>
+    <string name="write_the_text">Write the text</string>
+    <string name="postpone">postpone</string>
+</resources>
